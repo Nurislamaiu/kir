@@ -68,9 +68,9 @@ class TRoundedImage extends StatelessWidget {
                 titleUpperCase,
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  fontFamily: GoogleFonts.cabin().fontFamily,
-                  fontSize: 25,
-                  fontWeight: FontWeight.w600,
+                  fontFamily: GoogleFonts.cabinCondensed().fontFamily,
+                  fontSize: 28,
+                  fontWeight: FontWeight.bold,
                   color: Colors.white,
 
                 ),

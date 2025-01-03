@@ -32,7 +32,7 @@ class MenuScreen extends StatelessWidget {
             constraints: BoxConstraints(maxWidth: 40.0, maxHeight: 40.0),
             child: IconButton(
               onPressed: (){},
-              icon: Icon(Iconsax.shopping_bag),
+              icon: Icon(Iconsax.bag_happy),
               iconSize: 24.0,
               highlightColor: Colors.transparent,
               splashColor: Colors.transparent,
